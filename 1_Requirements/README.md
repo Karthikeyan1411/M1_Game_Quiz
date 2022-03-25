@@ -9,3 +9,20 @@ This application allows you to play online quizzes and learn grammar aptitude, a
 The goal of this project is to assess the participants knowledge both within and outside of academia, as well as to acquaint them with the potential of quizzes and the objectivity of the questions.
 
 ### Benefits
+* Helps in the formation of learning and compartmentalization skills Knowledge keeps you in competition shape.
+* An opportunity to stay current on a variety of topics 
+* An opportunity to stay current on a variety of topics 
+* Excellent stress reliever for everyone 
+* Develops the ability to think quickly on one's feet
+
+## Cost and Features
+The cost for implementing a project invloving quiz application is minimal none.
+        1. Leaderboard
+        2. Quiz timer
+        3. Show quiz score as percentage
+        4. Show quiz score in gauge
+        5. View correct answer options
+        6. View question results
+        7. Question pool
+        8. Randomize questions
+        9. Outcomes screen at the end of quiz
