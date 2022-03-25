@@ -61,7 +61,7 @@ When the user's monetary award reaches $1 million, the game is over. There are f
 
 ## High Level Requirements
 | ID   | Description                                | Category  | Status      |
-| _ _ _|: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _:|: _ _ _ _ :|: _ _ _ _ _ :|
+| -----|:------------------------------------------:|:---------:|:-----------:|
 | HR01 | User can be able to access help            | Technical | IMPLEMENTED |
 | HR02 | User can be able to edit scores            | Technical | IMPLEMENTED |
 | HR03 | User can be able to reset scores           | Technical | IMPLEMENTED |
