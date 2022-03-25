@@ -38,4 +38,4 @@ The user will be asked questions incessantly in the second and more fascinating 
 When the user's monetary award reaches $1 million, the game is over. There are four alternatives for each question: A, B, C, and D. Because there are no negative indications, the user's accrued cash money will not be removed for incorrect responses.
 
 ## SWOT ANALYSIS
-![Swot](https://github.com/Karthikeyan1411/M1_Game_Quiz/blob/main/1_Requirements/swot.drawio.png)
+![](https://github.com/Karthikeyan1411/M1_Game_Quiz/blob/main/1_Requirements/swot.drawio.png)
