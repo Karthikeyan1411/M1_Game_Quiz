@@ -68,9 +68,10 @@ When the user's monetary award reaches $1 million, the game is over. There are f
 | HR04 | User can be able to download score records | Technical | IMPLEMENTED |
 
 ## Low Level Requirements
-| ID    | Description                                                               | HLR ID | Status (Implemented/Future) |
-| ------|:-------------------------------------------------------------------------:| ------:|----------------------------:|
-| LR01  | User must choose the option for help for instructions of the game         | HR01   | IMPLEMENTED                 |
-| LR02  | User must choose the edit score for editing the game recorded scores      | HR02   | IMPLEMENTED                 |
-| LR03  | User must choose the reset score for reset/restart the game from starting | HR03   | IMPLEMENTED                 |
-| LR04  | User must choose the show record for download the score recorded file     | HR04   | IMPLEMENTED                 |
+| ID    | Description                                                             | HLR ID | Status (Implemented/Future) |
+| ------|:-----------------------------------------------------------------------:| ------:|----------------------------:|
+| LR01  | User must choose the option for help for instructions of the game       | HR01   | IMPLEMENTED                 |
+| LR02  | Same operation for editing the game recorded scores                     | HR02   | IMPLEMENTED                 |
+| LR03  | Same operation for reset score for reset/restart the game from starting | HR03   | IMPLEMENTED                 |
+| LR04  | Same operation for show record for download the score recorded file     | HR04   | IMPLEMENTED                 |
+
