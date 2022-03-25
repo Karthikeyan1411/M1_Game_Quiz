@@ -39,3 +39,22 @@ When the user's monetary award reaches $1 million, the game is over. There are f
 
 ## SWOT ANALYSIS
 ![alt-text](https://github.com/Karthikeyan1411/M1_Game_Quiz/blob/main/1_Requirements/swot_analys.drawio.png)
+
+## 4W's and 1'H
+### Who:
+* Students who want to solve quiz related problems for their academic work or fun time activities
+* Software engineers
+* Researchers and mathematicians
+
+### What:
+* To find the guessing words, numbers and also images.
+
+### When:
+* Students who want to solve quiz related problems, can use this program.
+* Come to a great use when finding answers.
+
+### Where:
+* Students, employees and researchers all over the world.
+
+### How:
+* This program can be executed in a system which has Linux or Windows operating system.
