@@ -17,12 +17,12 @@ The goal of this project is to assess the participants knowledge both within an
 
 ## Cost and Features
 The cost for implementing a project invloving quiz application is minimal none.
-        1. Leaderboard
-        2. Quiz timer
-        3. Show quiz score as percentage
-        4. Show quiz score in gauge
-        5. View correct answer options
-        6. View question results
-        7. Question pool
-        8. Randomize questions
-        9. Outcomes screen at the end of quiz
+1. Leaderboard
+2. Quiz timer
+3. Show quiz score as percentage
+4. Show quiz score in gauge
+5. View correct answer options
+6. View question results
+7. Question pool
+8. Randomize questions
+9. Outcomes screen at the end of quiz
