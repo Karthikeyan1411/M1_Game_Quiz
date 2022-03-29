@@ -11,7 +11,6 @@ The goal of this project is to assess the participants knowledge both within an
 ### Benefits
 * Helps in the formation of learning and compartmentalization skills Knowledge keeps you in competition shape.
 * An opportunity to stay current on a variety of topics 
-* An opportunity to stay current on a variety of topics 
 * Excellent stress reliever for everyone 
 * Develops the ability to think quickly on one's feet
 
