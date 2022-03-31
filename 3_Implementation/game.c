@@ -18,13 +18,11 @@ int main()
     char playername[20];
     mainhome:
     printf("\t\t\t  << QUIZ GAME >>\n");
-    printf("\n\t\t****************************************");
     printf("\n\t\t\t      WELCOME\n ");
     printf("\n\t\t\t        to\n ");
     printf("\n\t\t\t    THE QUIZ GAME ");
-    printf("\n\t\t****************************************");
     printf("\n\t\t   BECOME RICH EARN UPTO 1 MILLION $ ;-) ");
-    printf("\n\t\t****************************************");
+
     printf("\n\t\t > Press S to start the game");
     printf("\n\t\t > Press V to view the highest score  ");
     printf("\n\t\t > Press R to reset score");
@@ -74,7 +72,7 @@ int main()
         printf("\n\n Here are some tips you might wanna know before playing:");
         printf("\n ********************************************************************************");
         printf("\n >> There are 2 rounds in this Quiz Game,WARMUP ROUND & CHALLANGE ROUND");
-        printf("\n >> In warmup round you will be asked a total of 3 questions to test your");
+        printf("\n >> In warmup round total of 3 questions to test your");
         printf("\n    general knowledge. You are eligible to play the game if you give atleast 2");
         printf("\n    right answers, otherwise you can't proceed further to the Challenge Round.");
         printf("\n >> Your game starts with CHALLANGE ROUND. In this round you will be asked a");
