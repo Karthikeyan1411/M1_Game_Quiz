@@ -12,6 +12,8 @@
 ![Codiga](https://api.codiga.io/project/32299/status/svg)
 ### Build on Windows
 [![Build CI - Windows](https://github.com/Karthikeyan1411/M1_Game_Quiz/actions/workflows/build_on_window.yml/badge.svg)](https://github.com/Karthikeyan1411/M1_Game_Quiz/actions/workflows/build_on_window.yml)
+### Valgrind
+[![Valgrind](https://github.com/Karthikeyan1411/M1_Game_Quiz/actions/workflows/valgrind_check.yml/badge.svg)](https://github.com/Karthikeyan1411/M1_Game_Quiz/actions/workflows/valgrind_check.yml)
 
 ## Folder Structure
 | Folder | Description |
