@@ -25,9 +25,6 @@ PROJECT_OUTPUT = game.out
 #Document files
 DOCUMENTATION_OUTPUT = documentation/html
 
-#Default target built
-GAME_QUIZ:all
-
 
 Build:
 	gcc game_v1.c test_game.c unity/unity.c -Iunity
