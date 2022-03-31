@@ -1,5 +1,4 @@
 #include "unity.h"
-#include "game_operations.h"
 
 #define PROJECT_NAME  "Game_Quiz"
 
