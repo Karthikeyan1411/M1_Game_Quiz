@@ -1,15 +1,34 @@
-//Author: Karthikeyan M
+/**
+ * @file game.c
+ * @author Karthikeyan M (karthikeyan1411m@gmail.com)
+ * @brief This is the main program where the project is run
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
 
+/* Display score records */
 void show_record();
+/* Reset score */
 void reset_score();
+/* Help for gamer */
 void help();
+/* Edit scores */
 void edit_score(float,char[]);
 
+/* Start of the application */
+/**
+ * @brief Main program
+ * @return int
+ * @return int 
+ */
 int main()
 {
     int countr,r,r1,count,i,n;
@@ -31,7 +50,7 @@ int main()
     printf("\n\t\t________________________________________\n\n");
     choice=toupper(getchar());
      
-    if(choice=='V')
+    if(choice=='V') //Enter choice for view
 	{
         system("cls");
         show_record();
@@ -39,7 +58,7 @@ int main()
         goto mainhome;
 	}
      
-    else if(choice=='H')
+    else if(choice=='H') //Enter choice for help
 	{
         system("cls");
         help();
@@ -48,7 +67,7 @@ int main()
 	    goto mainhome;
 	}
 	 
-    else if(choice=='R')
+    else if(choice=='R') //Enter choice for reset
 	{
         system("cls");
         reset_score();
@@ -56,12 +75,12 @@ int main()
 	    goto mainhome;
     }
 	 
-    else if (choice=='Q')
+    else if (choice=='Q') //Enter choice for quit
 	{
         exit(1);
     }    
     
-    else if(choice=='S')
+    else if(choice=='S') //Enter choice for start
     {
         system("cls");
         printf("\n\n\n\n\n\n\n\n\n\n\t\t\tResister your name:");

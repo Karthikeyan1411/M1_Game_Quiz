@@ -1,9 +1,25 @@
+/**
+ * @file game_v1.c
+ * @author Karthikeyan M (karthikeyan1411m@gmail.com)
+ * @brief This is the functions program where the project is run
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
 
 void test(){
+	/**
+ 	* @brief Shows the record of quiz game
+ 	* @return Text file generated with secured high score
+ 	*/
+	
 	void show_record()
 	{ 
 		char name[20];
@@ -17,7 +33,12 @@ void test(){
 		fclose(f);
 		getchar();
 	}
-
+	
+	/**
+ 	* @brief Doing file operations for txt file
+ 	* @return Reset score from '0'
+ 	*/
+	
 	void reset_score()
 	{
     	system("cls");
@@ -30,6 +51,10 @@ void test(){
 		fprintf(f,"%s %.2f",nm,sc);
     	fclose(f);
 	}
+	
+	/**
+ 	* @brief Gives instructions of the game to the user
+ 	*/
 
 	void help()
 	{
@@ -52,6 +77,13 @@ void test(){
 		printf("\n\n\t*********************BEST OF LUCK*********************************");
 		printf("\n\n\t*****C PROGRAM QUIZ GAME is developed byDEEPAK SHARMA AP GOYAL SHIMLA UNIVERSITY********");
 	}
+	
+	/**
+ 	* @brief Gives the score information
+ 	* @param[in] operand1
+ 	* @param[in] operand2
+ 	* @return integer value of the operand1 and operand2 
+ 	*/
 
 	void edit_score(float score, char playernm[20])
 	{
@@ -72,6 +104,10 @@ void test(){
 	}
 }
 
+/**
+ * @brief Unit Test game 
+ * @return PAss or Fail cases
+ */
 void test_game()
 {
     printf("Successfully Done This Project\n");
@@ -85,5 +121,3 @@ int main()
     return 0;
 }
 */
- 
-//Code Reference: allprogramminghindi.in
