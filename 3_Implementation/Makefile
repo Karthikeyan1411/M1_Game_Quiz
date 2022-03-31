@@ -26,7 +26,7 @@ PROJECT_OUTPUT = game.out
 DOCUMENTATION_OUTPUT = documentation/html
 
 #Default target built
-$(PROJECT_NAME):all
+GAME_QUIZ:all
 
 
 Build:
