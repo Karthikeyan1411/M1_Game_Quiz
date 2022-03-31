@@ -10,3 +10,13 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6d2b1cd988dc48b790e5ec7db79cc4f8)](https://www.codacy.com/gh/Karthikeyan1411/M1_Game_Quiz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Karthikeyan1411/M1_Game_Quiz&amp;utm_campaign=Badge_Grade)
 ### Codiga
 ![Codiga](https://api.codiga.io/project/32299/status/svg)
+
+## Folder Structure
+| Folder | Description |
+| -------|:------------|
+| 1_Requirements | Documents detailing requirements |
+| 2_Architecture | Documents specifying architecture details |
+| 3_Implementation | All code and documentation |
+| 4_TestPlanAndOutput | Documents with test plan and procedures |
+| 5_Report | Documentation of whole project |
+| 6_ImagesAndVideos | All output of the project |
