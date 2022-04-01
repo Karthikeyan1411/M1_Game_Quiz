@@ -106,7 +106,7 @@ void test(){
 
 /**
  * @brief Unit Test game 
- * @return PAss or Fail cases
+ * @return Pass or Fail cases
  */
 void test_game()
 {

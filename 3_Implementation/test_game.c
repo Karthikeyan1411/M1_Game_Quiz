@@ -29,6 +29,6 @@ int main(void)
     /* Run Test functions */
     RUN_TEST(test_game);
     
-     /* Close the Unity Test Framework */
+    /* Close the Unity Test Framework */
     return (UnityEnd());
 }
